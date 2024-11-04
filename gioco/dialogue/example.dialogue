@@ -1,0 +1,5 @@
+~ Start
+set State.Dialogue_Window = true
+Test: Dialogo test
+set State.Dialogue_Window = false
+=> END
