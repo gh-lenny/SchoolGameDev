@@ -19,6 +19,7 @@ config/icon="res://sprite/icon.svg"
 
 DialogueManager="*res://addons/dialogue_manager/dialogue_manager.gd"
 State="*res://script/state.gd"
+Transition="*res://objects/transition.tscn"
 
 [display]
 
